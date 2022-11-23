@@ -1,5 +1,5 @@
 const test = () => {
-  console.log(88);
+  console.log(888);
 }
 
 test();
